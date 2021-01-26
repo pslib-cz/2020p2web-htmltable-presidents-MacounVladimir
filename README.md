@@ -12,7 +12,7 @@ Období společného československého státu je označeno žlutým textem na m
 Doba, kdy na Slovensku nebyl žádný prezident, je psána šedou.
 Roky mají světle hnědé pozadí: ``#D7CCC8``.
 Prezidenti ČR mají jméno na světle modrém pozadí: ``#90CAF9``
-Prezidenti ČR mají jméno na růžovém pozadí: ``#F8BBD0``
+Prezidenti SR mají jméno na růžovém pozadí: ``#F8BBD0``
 
 ## Poznámky
 Veškeré rozmístěné třídy se týkají pouze řádků, skupin řádků, sloupců a skupin sloupců. Není nutné umísťovat třídy do samotných buněk.
