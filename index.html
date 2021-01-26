@@ -14,6 +14,16 @@
       .presidents .roky {background-color: #D7CCC8;}
       .presidents .cr {background-color: #90CAF9;}
       .presidents .sr {background-color: #F8BBD0;}
+      .presidents
+      tr td.bezprezidenta {color: gray;}
+      table {border-collapse: collapse;}
+
+      .presidents thead tr th{
+        border-bottom: 3px solid;
+      }
+      .presidents tfoot tr th, .presidents tfoot tr td{
+        border-top: 3px solid;
+      }
     </style>
   </head>
   <body>
@@ -63,8 +73,8 @@
         <tr>
           <th>1998</th>
           <th>1999</th>
-          <td>bez prezidenta</td>
-          <td>Na Slovensku v této době byli pověřeni prezidentskými pravomocemi tehdejší premiéři</td>
+          <td class="bezprezidenta">bez prezidenta</td>
+          <td class="bezprezidenta">Na Slovensku v této době byli pověřeni prezidentskými pravomocemi tehdejší premiéři</td>
         </tr>
         <tr>
           <th>1999</th>
